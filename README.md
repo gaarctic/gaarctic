@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👾 Hello, I'm Gabriella!  
 
-<!--
-**gaarctic/gaarctic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Passionate about technology and development, I'm diving into the **Full Stack** world with **JavaScript, HTML, and CSS**. My focus is on learning and improving my skills to eventually work on game-related projects!  
 
-Here are some ideas to get you started:
+💡 Currently learning about:  
+- 🌐 Web development (HTML, CSS, JavaScript)  
+- 🕹️ Game development fundamentals  
+- ⚡ Enhancing my programming logic skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let’s connect!  
+Find me at **@gaarctic**  
+
+🚀 Learning and improving every day!  
