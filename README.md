@@ -4,7 +4,6 @@
 
 💡 Currently learning about:  
 - 🌐 Web development (HTML, CSS, JavaScript)  
-- 🕹️ Game development fundamentals  
 - ⚡ Enhancing my programming logic skills  
 
 📫 Let’s connect!  
