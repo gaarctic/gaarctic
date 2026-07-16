@@ -1,12 +1,24 @@
-# 👾 Hello, I'm Gabriella!  
+# Gabriella
 
-🎮 Passionate about technology and development, I'm diving into the **Full Stack** world with **JavaScript, HTML, and CSS**. My focus is on learning and improving my skills to eventually work on game-related projects!  
+```bash
+> whoami
 
-💡 Currently learning about:  
-- 🌐 Web development (HTML, CSS, JavaScript)  
-- ⚡ Enhancing my programming logic skills  
+Cyber Defense student.
+```
 
-📫 Let’s connect!  
-Find me at **@gaarctic**  
+Currently studying **Cyber Defense** and using this GitHub to document my journey.
 
-🚀 Learning and improving every day!  
+Here you'll find:
+- Study notes
+- Labs
+- CTFs
+- Scripts
+- Projects
+- Resources
+
+Always learning.
+
+---
+
+**@gaarctic**
+```
